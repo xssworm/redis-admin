@@ -2,5 +2,5 @@
 *.pot
 *.pyc
 local_settings.py
-.idea/
-redis_admin/__pycache__/
+source/.idea/
+source/redis_admin/__pycache__/
