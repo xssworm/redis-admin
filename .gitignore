@@ -3,4 +3,4 @@
 *.pyc
 local_settings.py
 .idea/
-__pycache__/
+redis_admin/__pycache__/
